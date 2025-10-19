@@ -43,7 +43,7 @@
       "conflict": {
         "illuminate/contracts": ">=12.0",
         "illuminate/support": ">=12.0"
-      }
+      },
     "autoload": {
         "psr-4": {
             "Thiktak\\FilamentNestedBuilderForm\\": "src/"
